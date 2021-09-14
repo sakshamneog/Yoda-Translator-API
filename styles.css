@@ -1,0 +1,91 @@
+@import url('https://fonts.googleapis.com/css2?family=Acme&family=Shadows+Into+Light&display=swap');
+
+
+textarea{
+    width: 50%;
+    height: 8vh;
+    display: block;
+    margin: 1 rem;
+    padding: 1 rem;
+    text-align: center;
+    font-family: 'Acme', sans-serif;
+    margin: auto;
+   
+   
+
+}
+.container-first{
+    background-color: #6B7AA1;
+    text-align: center;
+    padding: 1rem;
+    font-family: 'Acme', sans-serif;
+    margin-bottom: 2rem;
+    
+    font-size: larger;
+
+
+   
+}
+
+h1{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+    
+
+
+
+
+#output{
+    border: 2px solid black;
+    height: 10vh;
+    width: 50%;
+    margin: 1 rem;
+    padding: 1 rem;
+    margin: auto;
+}
+
+
+
+
+
+.container {
+   margin-left: 45rem;
+   margin-top: 3rem;
+}
+
+#new{
+    margin-left:43rem ;
+    margin-top: 2rem;
+    font-size: larger;
+    font-family: 'Acme', sans-serif;
+    
+   
+}
+
+.container-last{
+    background-color: #6B7AA1;
+    text-align: center;
+    padding: 3rem;
+    font-family: 'Acme', sans-serif;
+    margin-bottom: 2rem;
+    margin-top: 10rem;
+    font-size: larger;
+    color: white;
+
+}
+#btn-translate{
+    background-color: yellow;
+    padding-top: 2rem;
+    
+
+}
